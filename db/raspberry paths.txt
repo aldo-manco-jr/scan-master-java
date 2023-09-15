@@ -1,0 +1,4 @@
+/home/pi/Desktop/ABS.jpg
+/home/pi/Desktop/ADS.jpg
+/home/pi/Desktop/AFS.jpg
+
